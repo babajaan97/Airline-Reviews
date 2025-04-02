@@ -1,4 +1,5 @@
 The objective of this project was to develop an interactive Tableau dashboard showcasing airline ratings across various metrics. 
+![88BFDB5B-33C3-41B9-8E72-809E6D16E231](https://github.com/user-attachments/assets/bb578b60-218c-45f9-bc04-7771422ed506)
 
 The dashboard aims to provide business leaders with valuable insights into areas for improvement.
 
